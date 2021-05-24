@@ -1,0 +1,16 @@
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentManagement.Services.deps.json
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentManagement.Services.dll
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentManagement.Services.pdb
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentApp.DTO.dll
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentApp.Entities.dll
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentManagement.Repositories.dll
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentApp.DTO.pdb
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentApp.Entities.pdb
+C:\Assignment\StudentManagement.Services\bin\Debug\netcoreapp3.1\StudentManagement.Repositories.pdb
+C:\Assignment\StudentManagement.Services\obj\Debug\netcoreapp3.1\StudentManagement.Services.csprojAssemblyReference.cache
+C:\Assignment\StudentManagement.Services\obj\Debug\netcoreapp3.1\StudentManagement.Services.AssemblyInfoInputs.cache
+C:\Assignment\StudentManagement.Services\obj\Debug\netcoreapp3.1\StudentManagement.Services.AssemblyInfo.cs
+C:\Assignment\StudentManagement.Services\obj\Debug\netcoreapp3.1\StudentManagement.Services.csproj.CoreCompileInputs.cache
+C:\Assignment\StudentManagement.Services\obj\Debug\netcoreapp3.1\StudentManagement.Services.csproj.CopyComplete
+C:\Assignment\StudentManagement.Services\obj\Debug\netcoreapp3.1\StudentManagement.Services.dll
+C:\Assignment\StudentManagement.Services\obj\Debug\netcoreapp3.1\StudentManagement.Services.pdb

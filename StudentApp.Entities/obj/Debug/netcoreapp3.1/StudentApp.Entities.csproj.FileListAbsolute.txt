@@ -1,0 +1,9 @@
+C:\Assignment\StudentApp.Entities\bin\Debug\netcoreapp3.1\StudentApp.Entities.deps.json
+C:\Assignment\StudentApp.Entities\bin\Debug\netcoreapp3.1\StudentApp.Entities.dll
+C:\Assignment\StudentApp.Entities\bin\Debug\netcoreapp3.1\StudentApp.Entities.pdb
+C:\Assignment\StudentApp.Entities\obj\Debug\netcoreapp3.1\StudentApp.Entities.csprojAssemblyReference.cache
+C:\Assignment\StudentApp.Entities\obj\Debug\netcoreapp3.1\StudentApp.Entities.AssemblyInfoInputs.cache
+C:\Assignment\StudentApp.Entities\obj\Debug\netcoreapp3.1\StudentApp.Entities.AssemblyInfo.cs
+C:\Assignment\StudentApp.Entities\obj\Debug\netcoreapp3.1\StudentApp.Entities.csproj.CoreCompileInputs.cache
+C:\Assignment\StudentApp.Entities\obj\Debug\netcoreapp3.1\StudentApp.Entities.dll
+C:\Assignment\StudentApp.Entities\obj\Debug\netcoreapp3.1\StudentApp.Entities.pdb

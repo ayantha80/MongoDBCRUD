@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBzQnf5xSn4bb5gKEthIwtEnAy3L0WOYdKnXlgGj6jh4/Mtkw6BiwBl9PxL+zmXQcEaVCUvX7+N/FY91KnM25A==",
+  "success": true,
+  "projectFilePath": "C:\\Assignment\\StudentApp.Entities\\StudentApp.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\mongodb.bson\\2.12.3\\mongodb.bson.2.12.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

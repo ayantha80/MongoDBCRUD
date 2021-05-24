@@ -1,0 +1,12 @@
+C:\Assignment\StudentManagement.Repositories\bin\Debug\netcoreapp3.1\StudentManagement.Repositories.deps.json
+C:\Assignment\StudentManagement.Repositories\bin\Debug\netcoreapp3.1\StudentManagement.Repositories.dll
+C:\Assignment\StudentManagement.Repositories\bin\Debug\netcoreapp3.1\StudentManagement.Repositories.pdb
+C:\Assignment\StudentManagement.Repositories\obj\Debug\netcoreapp3.1\StudentManagement.Repositories.csprojAssemblyReference.cache
+C:\Assignment\StudentManagement.Repositories\obj\Debug\netcoreapp3.1\StudentManagement.Repositories.AssemblyInfoInputs.cache
+C:\Assignment\StudentManagement.Repositories\obj\Debug\netcoreapp3.1\StudentManagement.Repositories.AssemblyInfo.cs
+C:\Assignment\StudentManagement.Repositories\obj\Debug\netcoreapp3.1\StudentManagement.Repositories.csproj.CoreCompileInputs.cache
+C:\Assignment\StudentManagement.Repositories\obj\Debug\netcoreapp3.1\StudentManagement.Repositories.dll
+C:\Assignment\StudentManagement.Repositories\obj\Debug\netcoreapp3.1\StudentManagement.Repositories.pdb
+C:\Assignment\StudentManagement.Repositories\bin\Debug\netcoreapp3.1\StudentApp.Entities.dll
+C:\Assignment\StudentManagement.Repositories\bin\Debug\netcoreapp3.1\StudentApp.Entities.pdb
+C:\Assignment\StudentManagement.Repositories\obj\Debug\netcoreapp3.1\StudentManagement.Repositories.csproj.CopyComplete

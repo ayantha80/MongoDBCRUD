@@ -1,0 +1,9 @@
+C:\Assignment\StudentApp.DTO\bin\Debug\netcoreapp3.1\StudentApp.DTO.deps.json
+C:\Assignment\StudentApp.DTO\bin\Debug\netcoreapp3.1\StudentApp.DTO.dll
+C:\Assignment\StudentApp.DTO\bin\Debug\netcoreapp3.1\StudentApp.DTO.pdb
+C:\Assignment\StudentApp.DTO\obj\Debug\netcoreapp3.1\StudentApp.DTO.csprojAssemblyReference.cache
+C:\Assignment\StudentApp.DTO\obj\Debug\netcoreapp3.1\StudentApp.DTO.AssemblyInfoInputs.cache
+C:\Assignment\StudentApp.DTO\obj\Debug\netcoreapp3.1\StudentApp.DTO.AssemblyInfo.cs
+C:\Assignment\StudentApp.DTO\obj\Debug\netcoreapp3.1\StudentApp.DTO.csproj.CoreCompileInputs.cache
+C:\Assignment\StudentApp.DTO\obj\Debug\netcoreapp3.1\StudentApp.DTO.dll
+C:\Assignment\StudentApp.DTO\obj\Debug\netcoreapp3.1\StudentApp.DTO.pdb
